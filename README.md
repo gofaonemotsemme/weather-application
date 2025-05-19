@@ -29,7 +29,7 @@ This is a simple weather application built using the T3 Stack (Next.js, TypeScri
     ```
 
 3.  **Set up environment variables:**
-    Create a `.env.local` file in the root of the project and add your OpenWeatherMap API key:
+    Edit the `.env.local` file in the root of the project and add your OpenWeatherMap API key:
     ```
     OPENWEATHERMAP_API_KEY=YOUR_API_KEY
     ```
