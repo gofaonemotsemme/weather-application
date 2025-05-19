@@ -19,8 +19,8 @@ This is a simple weather application built using the T3 Stack (Next.js, TypeScri
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
-    cd <your_project_name>
+    git clone [<repository_url>](https://github.com/gofaonemotsemme/weather-application.git)
+    cd <weather-application>
     ```
 
 2.  **Install dependencies:**
